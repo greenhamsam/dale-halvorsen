@@ -1,0 +1,14 @@
+body {
+  padding: 10%;
+}
+
+.social {
+  list-style: none;
+  display: flex;
+  color: $grey;
+  justify-content: space-around;
+}
+
+footer {
+  padding-top: 20vh;
+}
