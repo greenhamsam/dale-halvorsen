@@ -49,7 +49,11 @@ body {
   padding-top: 0;
   padding-bottom: 10%; }
 
-.social {
+#contact {
+  text-align: center;
+  padding-top: 5vh; }
+
+#social {
   list-style: none;
   display: flex;
   color: #f8f8f8;
@@ -70,6 +74,7 @@ footer {
 
 .btn-dark {
   color: #151515;
+  padding: 1% 10%;
   border: none;
   border-radius: 5px;
   background-color: #f7eb08; }
