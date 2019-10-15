@@ -34,12 +34,13 @@ ul {
   color: #f8f8f8; }
 
 body {
-  padding: 10%; }
+  padding: 0 10% 10% 10%; }
 
 #name {
   text-align: center;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
+  padding-top: 10%;
   padding-bottom: 0;
   color: #b2b2b2;
   font-size: 1.4em; }
